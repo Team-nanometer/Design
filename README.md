@@ -1,4 +1,4 @@
-# Team nanometer Branding Guide
+# Team nanometer - Branding Guide
 ## Color
 ### Main Green - ![](https://via.placeholder.com/15/5BC5A7/000000?text=+)
 
