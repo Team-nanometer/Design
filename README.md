@@ -1,4 +1,11 @@
-# Team nanometer - Branding Guide
+<div align="center">
+<img src="./Logo/Teamnanometer_Logo_2021_BlackOutline_Fit.png" alt="Team nanometer Icon" title="Team nanometer">
+</div>
+<h2 align="center">Team nanometer</h2>
+<h4 align="center">Branding Guide</h4>
+
+---
+
 ## Color
 ### Main Green - ![](https://via.placeholder.com/15/5BC5A7/000000?text=+)
 
