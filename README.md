@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Logo/Teamnanometer_Logo_2021_BlackOutline_Fit.png" alt="Team nanometer Icon" title="Team nanometer">
+<img src="./Logo/Team-nanometer_Logo_2022.04_Color-Transparent_Fit_x256.png" alt="Team nanometer Icon" title="Team nanometer">
 </div>
 <h2 align="center">Team nanometer</h2>
 <h4 align="center">Branding Guide</h4>
@@ -23,20 +23,52 @@
 
 + **HSL:** `220, 70%, 55%`
 
+### Accent Yellow - ![](https://via.placeholder.com/15/FFFF1F/000000?text=+)
+
++ **HEX:** `#FFFF1F`
+
++ **RGB:** `255, 255, 31`
+
++ **HSL:** `60, 100%, 56%`
+
 ---
 ## Logo
 
-### Teamnanometer_Logo_2021_BlackOutline_Fit.png
+### Team-nanometer_Logo_2022.04_Color-Transparent.png
 
-> Size: **`466x239`**
+> Size: **`1509x1301`**
 
-![](./Logo/Teamnanometer_Logo_2021_BlackOutline_Fit.png)
+![](./Logo/Team-nanometer_Logo_2022.04_Color-Transparent.png)
 ---
-### Teamnanometer_Logo_2021_NoneOutline.png
+### Team-nanometer_Logo_2022.04_Color-Transparent_Fit.png
 
-> Size: **`1000x1000`**
+> Size: **`1369x1257`**
 
-![](./Logo/Teamnanometer_Logo_2021_NoneOutline.png)
+![](./Logo/Team-nanometer_Logo_2022.04_Color-Transparent_Fit.png)
+---
+### Team-nanometer_Logo_2022.04_Color-Transparent_Fit_x256.png
+
+> Size: **`256x235`**
+
+![](./Logo/Team-nanometer_Logo_2022.04_Color-Transparent_Fit_x256.png)
+---
+### Team-nanometer_Logo_2022.04_White-Transparent.png
+
+> Size: **`1509x1301`**
+
+![](./Logo/Team-nanometer_Logo_2022.04_White-Transparent.png)
+---
+### Team-nanometer_Logo_2022.04_White-Transparent_Fit.png
+
+> Size: **`1369x1257`**
+
+![](./Logo/Team-nanometer_Logo_2022.04_White-Transparent_Fit.png)
+---
+### Team-nanometer_Logo_2022.04_White-Transparent_Fit_x256.png
+
+> Size: **`256x235`**
+
+![](./Logo/Team-nanometer_Logo_2022.04_White-Transparent_Fit_x256.png)
 
 ---
 ## Icon
@@ -56,14 +88,14 @@
 ---
 ## Banner
 
-### Teamnanometer_Banner_2021.jpg
+### Team-nanometer_Banner_2022.04_Color-White_1920x1080.jpg
 
-> Size: `1500x500`
+> Size: `1920x1080`
 
-![](./Banner/Teamnanometer_Banner_2021.jpg)
+![](./Banner/Team-nanometer_Banner_2022.04_Color-White_1920x1080.jpg)
 ---
-### Tnm_YouTube.png
+### Team-nanometer_Banner_2022.04_White_LightBlue_5000x2000.jpg
 
-> Size: `2048x1152`
+> Size: `5000x2000`
 
-![](./Banner/Tnm_YouTube.png)
+![](./Banner/Team-nanometer_Banner_2022.04_White_LightBlue_5000x2000.jpg)
