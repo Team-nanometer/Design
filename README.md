@@ -73,17 +73,18 @@
 ---
 ## Icon
 
-### Teamnanometer_Logo_2021_SocialMediaIcon.png
+### Team-nanometer_Icon_2022.04_Color-Sky.jpg
 
-> Size: `1000x1000`
+> Size: `2000x2000`
 
-![](./Icon/Teamnanometer_Logo_2021_SocialMediaIcon.png)
+![](./Icon/Team-nanometer_Icon_2022.04_Color-Sky.jpg)
 ---
-### Teamnanometer_Logo_2021_SocialMediaIcon_Crop.png
+### Team-nanometer_Icon_2022.04_Color-Sky_x256.jpg
 
-> Size: `800x800`
+> Size: `256x256`
 
-![](./Icon/Teamnanometer_Logo_2021_SocialMediaIcon_Crop.png)
+![](./Icon/Team-nanometer_Icon_2022.04_Color-Sky_x256.jpg)
+
 
 ---
 ## Banner
