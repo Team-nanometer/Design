@@ -72,17 +72,17 @@
 ---
 ## Icon
 
-### Team-nanometer_Icon_2022.04_Color-Sky.jpg
+### Team-nanometer_Icon_2022.04_Green-Black_Social_x2000.jpg
 
 > Size: `2000x2000`
 
-![](./Icon/Team-nanometer_Icon_2022.04_Color-Sky.jpg)
+![](./Icon/Team-nanometer_Icon_2022.04_Green-Black_Social_x2000.jpg)
 ---
-### Team-nanometer_Icon_2022.04_Color-Sky_x256.jpg
+### Team-nanometer_Icon_2022.04_Green-Black_Social_x256.jpg
 
 > Size: `256x256`
 
-![](./Icon/Team-nanometer_Icon_2022.04_Color-Sky_x256.jpg)
+![](./Icon/Team-nanometer_Icon_2022.04_Green-Black_Social_x256.jpg)
 
 
 ---
