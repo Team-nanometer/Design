@@ -1,8 +1,7 @@
 <div align="center">
-<img src="./Logo/Team-nanometer_Logo_2022.04_Color-Transparent_Fit_x256.png" alt="Team nanometer Icon" title="Team nanometer">
+<img src="./Banner/Team-nanometer_Banner_2022.04_Color-White_1920x1080.jpg" alt="Team nanometer Banner" title="Team nanometer">
 </div>
-<h2 align="center">Team nanometer</h2>
-<h4 align="center">Branding Guide</h4>
+<h2 align="center">Team nanometer - Branding Guide</h2>
 
 ---
 
